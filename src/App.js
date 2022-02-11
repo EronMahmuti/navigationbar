@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <Toolbar />
+      <p>This is a content of this page</p>
     </div>
   );
 }
