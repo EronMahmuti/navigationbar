@@ -60,5 +60,14 @@
     }
 }
 
+@media(min-width:769px){
+    .toolbar__toggle-button{
+        display: none;
+    }
+    .toolbar_logo{
+        margin-left:0;
+    }
+}
+
 
 
