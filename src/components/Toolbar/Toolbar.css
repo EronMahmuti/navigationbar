@@ -11,12 +11,14 @@
 }
 .toolbar_nav-items li{
     padding: 0 0 0.5rem;
+    color: aliceblue;
+    list-style: none;
 }
 
 .toolbar_nav{
     display: flex;
     height: 100%;
-    align-items: center;
+    align-items: right;
     padding: 0 1rem;
 
 }
